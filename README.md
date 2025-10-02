@@ -84,10 +84,10 @@ Temas:
 - **[ES7+ React/JS/TS Snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)**  
   Snippets y atajos útiles para JS moderno y React.
 
-- **[GitHub Theme].
+- **[GitHub Theme]**.
 
-- **[One Dark Pro].
+- **[One Dark Pro]**.
 
-- **[vscode-icons].
+- **[vscode-icons]**.
 
-- **[Material Icon Theme].
+- **[Material Icon Theme]**.
